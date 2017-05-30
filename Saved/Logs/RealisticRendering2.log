@@ -293,3 +293,5 @@ LogInit: Object subsystem initialized
 [2017.05.30-18.59.30:097][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
 [2017.05.30-18.59.35:587][640]LogLinker:Warning: Can't resolve asset name
 [2017.05.30-18.59.40:993][240]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 111 classes and 0 folders.
+[2017.05.30-19.09.31:438][ 16]LogSavePackage: Save=838.81ms
+[2017.05.30-19.09.31:438][ 16]LogSavePackage: Moving '../../../../../../Users/Zihao/Documents/Unreal Projects/RealisticRendering2/Saved/Room_Auto1AD794373455980FCFDC907A90582D9A1.tmp' to '../../../../../../Users/Zihao/Documents/Unreal Projects/RealisticRendering2/Saved/Autosaves/Game/Maps/Room_Auto1.umap'
